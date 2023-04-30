@@ -1,2 +1,2 @@
 # Treino-Sinon-JS
-Repository dedicated to training unit tests using Jest
+Repository dedicated to training unit tests using Sinon
