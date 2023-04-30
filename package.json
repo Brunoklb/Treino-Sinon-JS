@@ -1,0 +1,17 @@
+{
+  "name": "treino-sinon-js",
+  "version": "1.0.0",
+  "description": "Repositório dedicado ao treino de testes unitários com usando Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "sinon": "^15.0.4",
+    "sinon-chai": "^3.7.0"
+  }
+}
